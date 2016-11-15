@@ -1,0 +1,65 @@
+Ordinary text: QWERTYUIOP. <br>
+Bold text: [b]QWERTYUIOP[/b] <br>
+Bold text: [b]QWERTYUIOP[/b] <br>
+Ordinary text: QWERTYUIOP. <br>
+Inclined bold text: [b][i]QWERTYUIOP[/i][/b] <br>
+Inclined text: [i]Some inclined text[/i] <br>
+Underlined text: [u]Some underlined text[/u] <br>
+Underlined text: [u][u]Some[/u][/u] underlined text <br>
+Deleted text: [s]Some deleted text[/s] <br>
+Deleted text[s]: [s]Som[/s]e deleted text[/s] <br>
+URL with visible text: [url]https://ru.wikipedia.org/wiki/BBCode[/url] <br>
+URL with another text: [url=http://www.yourhowto.net/find-string-in-array-in-perl]Some cool text[/url] <br>
+Image! *o*: [img]https://habrastorage.org/files/954/e80/021/954e8002161d4e3d8cd314e0076aeaaf.jpg[/img] <br>
+Has to be an image with url...: [url=https://ru.perlmaven.com/mnogomernye-hashi][img]http://pastie.org/images/symbolicons/black/document@2x.png[/img][/url] <br>
+Quote: [quote]Some quote here[/quote] <br>
+Same quote: [quote="Sokrat"]Some quote here[/quote] <br>
+C++ code here: [code]#include <curses.h>
+#include <string>
+#include <Windows.h>
+#include <ctime>
+
+struct bullet
+{
+	int posY, posX;
+	bool is_moving;
+};[/code] <br>
+[size="20px"]Some text[/size] - look at it's size! <br>
+[size=72]Also big text[/size] <br>
+[color="#ff0000"]Do you know color #FF0000 ?[/color] <br>
+[color=red]Rrrred text![/color] <br>
+[style color=#ff0000]Stylized text[/style] <br>
+[ul]
+   [li] Pt 1. [/li]
+   [li] Pt 2. [/li]
+   [li] Pt 3. [/li]
+[/ul]
+Numeric list <br>
+[ol]
+   [li] Pt 1. [/li]
+   [li] Pt 2. [/li]
+   [li] Pt 3. [/li]
+[/ol]
+Table insertion <br>
+[table]
+   [tr]
+      [td] 1 [/td]
+      [td] 2 [/td]
+      [td] 3 [/td]
+   [/tr]
+   [tr]
+      [td] 4 [/td]
+      [td] 5 [/td]
+      [td] 6 [/td]
+   [/tr]
+   [tr]
+      [td] 7 [/td]
+      [td] 8 [/td]
+      [td] 9 [/td]
+   [/tr]
+[/table]
+[list]
+   [*] Pt 1.
+   [*] Pt 2.
+   [*] Pt 3.
+[/list]
